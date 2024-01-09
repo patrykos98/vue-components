@@ -27,7 +27,7 @@
          return{
            newItem:'',
            items:[
-             {title: 'Zrobic zakupy', completed: false, id:1},
+             {title: 'Nauczyc sie vue', completed: false, id:1},
              {title: 'Nagrac kurs', completed: true, id:2}
            ]
          }
