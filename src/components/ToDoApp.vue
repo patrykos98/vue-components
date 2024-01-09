@@ -59,6 +59,7 @@
    }
    .completed h2{
      text-decoration: line-through;
+     transition: .3s;
    }
    </style>
    
